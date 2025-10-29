@@ -3,7 +3,7 @@
 ## Overview
 This project provides a REST API for retrieving country data including GDP estimates, population statistics, and other key metrics. The application fetches real-time data from external APIs and maintains a local database for efficient querying.
 
-live at https://hng-stage-2-production.up.railway.app/
+
 
 ## Features
 - Real-time country data fetching from REST APIs
@@ -21,7 +21,7 @@ live at https://hng-stage-2-production.up.railway.app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SlackOps01/hng-stage-2.git
+git clone 
 cd hng-stage-2.git
 ```
 
